@@ -1,6 +1,6 @@
 # OriginRace EdgeWorker
 
-Intelligent origin selection for Akamai EdgeWorkers based on performance racing from the edge server perspective.
+Automatically route traffic to your fastest origin server
 
 ## What is OriginRace?
 
